@@ -1,3 +1,3 @@
 # SecodoGit
 05/12/2025
-secondo progetto git
+0secondo progetto git.
