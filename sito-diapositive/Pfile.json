@@ -1,0 +1,33 @@
+{
+   "immagini":[
+      {
+         "url": "https://www.mrexcursions.it/wp-content/uploads/2023/02/etna-lava-inverno.jpg",
+           "didascalia":"Etna"
+           
+      },
+      {
+         "url" : "https://static.turisanda.it/dam/turisanda.it/destinazioni/america-del-nord-e-del-centro/usa/parchi-nazionali/grand-canyon/0-wide/01_grand-canyon.jpg" ,
+         "didascalia":"grand-canyon"
+      },
+
+      {
+         "url": "https://valeriacastiello.com/wp-content/uploads/2016/05/DSC_0717-Modifica-3-40_mini-1-1280x640.jpg",
+         "didascalia":"Fiordo Norvegese"
+          
+      },
+      {
+         "url": "https://lostinfood.it/wp-content/uploads/2020/03/sequoie-giganti-california.jpg ",
+         "didascalia":"Sequoie Giganti"
+         
+      },
+      {
+         "url": " https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012_Cropped.jpg/1200px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012_Cropped.jpg " ,
+         "didascalia":"Monte Everest"
+      },
+      {
+         "url": " https://www.lifeintravel.it/media/k2/items/cache/cdaf81e699deb247c8a8405f9c5f35da_XL.jpg?t=20171113_154237 ",
+         "didascalia":"Outback"
+         
+      }
+   ]
+}
